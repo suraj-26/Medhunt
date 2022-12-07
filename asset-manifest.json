@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Medhunt/static/css/main.6b352e1d.css",
+    "main.js": "/Medhunt/static/js/main.3e8941fc.js",
+    "index.html": "/Medhunt/index.html",
+    "main.6b352e1d.css.map": "/Medhunt/static/css/main.6b352e1d.css.map",
+    "main.3e8941fc.js.map": "/Medhunt/static/js/main.3e8941fc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b352e1d.css",
+    "static/js/main.3e8941fc.js"
+  ]
+}
